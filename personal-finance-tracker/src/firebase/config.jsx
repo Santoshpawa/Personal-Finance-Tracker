@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA6MdZ62XZj5qMShHWebaz6nrjWOoRVBa4",
+  apiKey: "Your api key",
   authDomain: "tweeter-message.firebaseapp.com",
   projectId: "tweeter-message",
   storageBucket: "tweeter-message.firebasestorage.app",
